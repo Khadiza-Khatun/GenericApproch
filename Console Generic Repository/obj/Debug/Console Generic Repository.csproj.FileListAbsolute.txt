@@ -1,0 +1,27 @@
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\bin\Debug\SalaryDB.mdf
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\bin\Debug\SalaryDB_log.ldf
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\bin\Debug\Console Generic Repository.exe.config
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\bin\Debug\Console Generic Repository.exe
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\bin\Debug\Console Generic Repository.pdb
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\bin\Debug\EntityFramework.dll
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\bin\Debug\EntityFramework.xml
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\obj\Debug\Console Generic Repository.csprojAssemblyReference.cache
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\obj\Debug\Console Generic Repository.csproj.CopyComplete
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\obj\Debug\Console Generic Repository.exe
+C:\Users\DOTNET\Desktop\My Project\Console Generic Repository\Console Generic Repository\obj\Debug\Console Generic Repository.pdb
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\bin\Debug\SalaryDB.mdf
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\bin\Debug\SalaryDB_log.ldf
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\bin\Debug\Console Generic Repository.exe.config
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\bin\Debug\Console Generic Repository.exe
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\bin\Debug\Console Generic Repository.pdb
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\bin\Debug\EntityFramework.dll
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\bin\Debug\EntityFramework.xml
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\obj\Debug\Console Generic Repository.csproj.AssemblyReference.cache
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\obj\Debug\Console Generic Repository.csproj.CoreCompileInputs.cache
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\obj\Debug\Console Generic Repository.csproj.CopyComplete
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\obj\Debug\Console Generic Repository.exe
+C:\Users\Khadiza Khatun Mukta\Desktop\52-project\Console Generic Repository\Console Generic Repository\obj\Debug\Console Generic Repository.pdb
